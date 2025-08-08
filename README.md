@@ -13,8 +13,6 @@ A simple React to-do list application for managing daily tasks.
 - CSS3
 - JavaScript (ES6)
 
-## 📸 Screenshot
-![To-Do List App Screenshot](screenshot.png)
 
 ## 📂 How to Run
 1. Clone the repository.
